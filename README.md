@@ -1451,6 +1451,8 @@ You plan to deploy a multi-tiered application that will contain the tiers shown 
 
 ### Your network contains an on-premises Active Directory domain named adatum.com. The domain contains an organizational unit (OU) named OU1. OU1 contains the objects shown in the following table. You sync OU1 to Azure Active Directory (Azure AD) by using Azure AD Connect. You need to identify which objects are synced to Azure AD. Which objects should you identify?
 
+[Question 177](images/question177.jpg)
+
 - [ ] User1 and Group1 only.
 - [x] User1, Group1, and Group2 only.
 - [ ] User1, Group1, Group2, and Computer1.
