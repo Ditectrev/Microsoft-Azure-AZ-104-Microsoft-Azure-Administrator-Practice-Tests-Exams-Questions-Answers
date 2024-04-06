@@ -84,7 +84,7 @@
 | 76  | [You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. Network traffic from VM3 can reach VM1.](#you-have-an-azure-subscription-named-subscription1-subscription1-contains-the-virtual-machines-in-the-following-table-subscription1-contains-a-virtual-network-named-vnet1-that-has-the-subnets-in-the-following-table-vm3-has-a-network-adapter-named-nic3-ip-forwarding-is-enabled-on-nic3-routing-is-enabled-on-vm3-you-create-a-route-table-named-rt1-rt1-is-associated-to-subnet1-and-subnet2-and-contains-the-routes-in-the-following-table-you-apply-rt1-to-subnet1-network-traffic-from-vm3-can-reach-vm1)
 | 77  | [You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. If VM3 is turned off, network traffic from VM2 can reach VM1.](#you-have-an-azure-subscription-named-subscription1-subscription1-contains-the-virtual-machines-in-the-following-table-subscription1-contains-a-virtual-network-named-vnet1-that-has-the-subnets-in-the-following-table-vm3-has-a-network-adapter-named-nic3-ip-forwarding-is-enabled-on-nic3-routing-is-enabled-on-vm3-you-create-a-route-table-named-rt1-rt1-is-associated-to-subnet1-and-subnet2-and-contains-the-routes-in-the-following-table-you-apply-rt1-to-subnet1-if-vm3-is-turned-off-network-traffic-from-vm2-can-reach-vm1)
 | 78  | [You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. Network traffic from VM1 can reach VM2.](#you-have-an-azure-subscription-named-subscription1-subscription1-contains-the-virtual-machines-in-the-following-table-subscription1-contains-a-virtual-network-named-vnet1-that-has-the-subnets-in-the-following-table-vm3-has-a-network-adapter-named-nic3-ip-forwarding-is-enabled-on-nic3-routing-is-enabled-on-vm3-you-create-a-route-table-named-rt1-rt1-is-associated-to-subnet1-and-subnet2-and-contains-the-routes-in-the-following-table-you-apply-rt1-to-subnet1-network-traffic-from-vm1-can-reach-vm2)
-| 79  | [You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions:. What is your favorite food? In what city was your first job? What was the name of your first pet? SecAdmin1 must answer the following question if he wants to reset his password: In what city was your first job?](#you-have-an-azure-subscription-that-contains-an-azure-directory-azure-ad-tenant-named-contosocom-the-tenant-is-synced-to-the-on-premises-active-directory-domain-the-domain-contains-the-users-shown-in-the-following-table-you-enable-self-service-password-reset-sspr-for-all-users-and-configure-sspr-to-have-the-following-authentication-methods-number-of-methods-required-to-reset-2-methods-available-to-users-mobile-phone-security-questions-number-of-questions-required-to-register-3-number-of-questions-required-to-reset-3-you-select-the-following-security-questions-what-is-your-favorite-food-in-what-city-was-your-first-job-what-was-the-name-of-your-first-pet-secadmin1-must-answer-the-following-question-if-he-wants-to-reset-his-password-in-what-city-was-your-first-job)
+| 79  | [You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? SecAdmin1 must answer the following question if he wants to reset his password: In what city was your first job?](#you-have-an-azure-subscription-that-contains-an-azure-directory-azure-ad-tenant-named-contosocom-the-tenant-is-synced-to-the-on-premises-active-directory-domain-the-domain-contains-the-users-shown-in-the-following-table-you-enable-self-service-password-reset-sspr-for-all-users-and-configure-sspr-to-have-the-following-authentication-methods-number-of-methods-required-to-reset-2-methods-available-to-users-mobile-phone-security-questions-number-of-questions-required-to-register-3-number-of-questions-required-to-reset-3-you-select-the-following-security-questions-what-is-your-favorite-food-in-what-city-was-your-first-job-what-was-the-name-of-your-first-pet-secadmin1-must-answer-the-following-question-if-he-wants-to-reset-his-password-in-what-city-was-your-first-job)
 | 80  | [You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? BillAdmin1 must answer the following question if he wants to reset his password: What is your favorite food?](#you-have-an-azure-subscription-that-contains-an-azure-directory-azure-ad-tenant-named-contosocom-the-tenant-is-synced-to-the-on-premises-active-directory-domain-the-domain-contains-the-users-shown-in-the-following-table-you-enable-self-service-password-reset-sspr-for-all-users-and-configure-sspr-to-have-the-following-authentication-methods-number-of-methods-required-to-reset-2-methods-available-to-users-mobile-phone-security-questions-number-of-questions-required-to-register-3-number-of-questions-required-to-reset-3-you-select-the-following-security-questions-what-is-your-favorite-food-in-what-city-was-your-first-job-what-was-the-name-of-your-first-pet-billadmin1-must-answer-the-following-question-if-he-wants-to-reset-his-password-what-is-your-favorite-food)
 | 81  | [Huongous Insurance is an insurance company that has three offices in Miami, Tokoyo, and Bangkok. Each has 5000 users. Active Directory Environment Humongous Insurance has a single-domain Active Directory forest named humongousinsurance.com. The functional level of the forest is Windows Server 2012. You recently provisioned an Azure Active Directory (Azure AD) tenant. Network Infrastructure Each office has a local data center that contains all the servers for that office. Each office has a dedicated connection to the Internet. Each office has several link load balancers that provide access to the servers. Active Directory Issue Several users in humongousinsurance.com have UPNs that contain special characters. You suspect that some of the characters are unsupported in Azure AD. Licensing Issue You attempt to assign a license in Azure to several users and receive the following error message: 'Licenses not assigned. License agreement failed for one user.' You verify that the Azure subscription has the available licenses. Requirements Planned Changes Humongous Insurance plans to open a new office in Paris. The Paris office will contain 1,000 users who will be hired during the next 12 months. All the resources used by the Paris office users will be hosted in Azure. Planned Azure AD Infrastructure The on-premises Active Directory domain will be synchronized to Azure AD. All client computers in the Paris office will be joined to an Azure AD domain. Planned Azure Networking Infrastructure You plan to create the following networking resources in a resource group named All_Resources: Default Azure system routes that will be the only routes used to route traffic. A virtual network named Paris-VNet that will contain two subnets named Subnet1 and Subnet2. A virtual network named ClientResources-VNet that will contain one subnet named ClientSubnet. A virtual network named AllOffices-VNet that will contain two subnets named Subnet3 and Subnet4 You plan to enable peering between Paris-VNet and AllOffices-VNet. You will enable the Use remote gateways setting for the Paris-VNet peerings. You plan to create a private DNS zone named humongousinsurance.local and set the registration network to the ClientResources-VNet virtual network. Planned Azure Computer Infrastructure Each subnet will contain several virtual machines that will run either Windows Server 2012 R2, Windows Server 2016, or Red Hat Linux. Department Requirements Humongous Insurance identifies the following requirements for the company's departments: Web administrators will deploy Azure web apps for the marketing department. Each web app will be added to a separate resource group. The initial configuration of the web apps will be identical. The web administrators have permission to deploy web apps to resource groups. During the testing phase, auditors in the finance department must be able to review all Azure costs from the past week. Authentication Requirements Users in the Miami office must use Azure Active Directory Seamless Single Sign-on (Azure AD Seamless SSO) when accessing resources in Azure. DRAG DROP You need to prepare the environment to ensure that the web administrators can deploy the web apps as quickly as possible. Which three actions should you perform in sequence?](#huongous-insurance-is-an-insurance-company-that-has-three-offices-in-miami-tokoyo-and-bangkok-each-has-5000-users-active-directory-environment-humongous-insurance-has-a-single-domain-active-directory-forest-named-humongousinsurancecom-the-functional-level-of-the-forest-is-windows-server-2012-you-recently-provisioned-an-azure-active-directory-azure-ad-tenant-network-infrastructure-each-office-has-a-local-data-center-that-contains-all-the-servers-for-that-office-each-office-has-a-dedicated-connection-to-the-internet-each-office-has-several-link-load-balancers-that-provide-access-to-the-servers-active-directory-issue-several-users-in-humongousinsurancecom-have-upns-that-contain-special-characters-you-suspect-that-some-of-the-characters-are-unsupported-in-azure-ad-licensing-issue-you-attempt-to-assign-a-license-in-azure-to-several-users-and-receive-the-following-error-message-licenses-not-assigned-license-agreement-failed-for-one-user-you-verify-that-the-azure-subscription-has-the-available-licenses-requirements-planned-changes-humongous-insurance-plans-to-open-a-new-office-in-paris-the-paris-office-will-contain-1000-users-who-will-be-hired-during-the-next-12-months-all-the-resources-used-by-the-paris-office-users-will-be-hosted-in-azure-planned-azure-ad-infrastructure-the-on-premises-active-directory-domain-will-be-synchronized-to-azure-ad-all-client-computers-in-the-paris-office-will-be-joined-to-an-azure-ad-domain-planned-azure-networking-infrastructure-you-plan-to-create-the-following-networking-resources-in-a-resource-group-named-all_resources-default-azure-system-routes-that-will-be-the-only-routes-used-to-route-traffic-a-virtual-network-named-paris-vnet-that-will-contain-two-subnets-named-subnet1-and-subnet2-a-virtual-network-named-clientresources-vnet-that-will-contain-one-subnet-named-clientsubnet-a-virtual-network-named-alloffices-vnet-that-will-contain-two-subnets-named-subnet3-and-subnet4-you-plan-to-enable-peering-between-paris-vnet-and-alloffices-vnet-you-will-enable-the-use-remote-gateways-setting-for-the-paris-vnet-peerings-you-plan-to-create-a-private-dns-zone-named-humongousinsurancelocal-and-set-the-registration-network-to-the-clientresources-vnet-virtual-network-planned-azure-computer-infrastructure-each-subnet-will-contain-several-virtual-machines-that-will-run-either-windows-server-2012-r2-windows-server-2016-or-red-hat-linux-department-requirements-humongous-insurance-identifies-the-following-requirements-for-the-companys-departments-web-administrators-will-deploy-azure-web-apps-for-the-marketing-department-each-web-app-will-be-added-to-a-separate-resource-group-the-initial-configuration-of-the-web-apps-will-be-identical-the-web-administrators-have-permission-to-deploy-web-apps-to-resource-groups-during-the-testing-phase-auditors-in-the-finance-department-must-be-able-to-review-all-azure-costs-from-the-past-week-authentication-requirements-users-in-the-miami-office-must-use-azure-active-directory-seamless-single-sign-on-azure-ad-seamless-sso-when-accessing-resources-in-azure-drag-drop-you-need-to-prepare-the-environment-to-ensure-that-the-web-administrators-can-deploy-the-web-apps-as-quickly-as-possible-which-three-actions-should-you-perform-in-sequence)
 | 82  | [You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? User1 must answer the following question if he wants to reset his password: What was the name of your first pet?](#you-have-an-azure-subscription-that-contains-an-azure-directory-azure-ad-tenant-named-contosocom-the-tenant-is-synced-to-the-on-premises-active-directory-domain-the-domain-contains-the-users-shown-in-the-following-table-you-enable-self-service-password-reset-sspr-for-all-users-and-configure-sspr-to-have-the-following-authentication-methods-number-of-methods-required-to-reset-2-methods-available-to-users-mobile-phone-security-questions-number-of-questions-required-to-register-3-number-of-questions-required-to-reset-3-you-select-the-following-security-questions-what-is-your-favorite-food-in-what-city-was-your-first-job-what-was-the-name-of-your-first-pet-user1-must-answer-the-following-question-if-he-wants-to-reset-his-password-what-was-the-name-of-your-first-pet)
@@ -173,10 +173,10 @@
 | 165 | [You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG3.](#you-have-azure-subscriptions-named-subscription1-and-subscription2-subscription1-has-following-resource-groups-rg1-includes-a-web-app-named-app1-in-the-west-europe-location-subscription2-contains-the-following-resource-groups-app1-can-be-moved-to-rg3)
 | 166 | [You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG4.](#you-have-azure-subscriptions-named-subscription1-and-subscription2-subscription1-has-following-resource-groups-rg1-includes-a-web-app-named-app1-in-the-west-europe-location-subscription2-contains-the-following-resource-groups-app1-can-be-moved-to-rg4)
 | 167 | [What should you use?](#what-should-you-use)
-| 168 | [You have an Azure subscription named Subscription1. Subscription1 contains a virtual machine named VM1. You install and configure a web server and a DNS server on VM1. VM1 has the effective network security rules shown in the following exhibit.](#you-have-an-azure-subscription-named-subscription1-subscription1-contains-a-virtual-machine-named-vm1-you-install-and-configure-a-web-server-and-a-dns-server-on-vm1-vm1-has-the-effective-network-security-rules-shown-in-the-following-exhibit-1)
-| 169 | [You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG2.](#you-have-azure-subscriptions-named-subscription1-and-subscription2-subscription1-has-following-resource-groups-rg1-includes-a-web-app-named-app1-in-the-west-europe-location-subscription2-contains-the-following-resource-groups-app1-can-be-moved-to-rg2-1)
-| 170 | [You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG3.](#you-have-azure-subscriptions-named-subscription1-and-subscription2-subscription1-has-following-resource-groups-rg1-includes-a-web-app-named-app1-in-the-west-europe-location-subscription2-contains-the-following-resource-groups-app1-can-be-moved-to-rg3-1)
-| 171 | [You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG4.](#you-have-azure-subscriptions-named-subscription1-and-subscription2-subscription1-has-following-resource-groups-rg1-includes-a-web-app-named-app1-in-the-west-europe-location-subscription2-contains-the-following-resource-groups-app1-can-be-moved-to-rg4-1)
+| 168 | [PLACEHOLDER 4](#placeholder-4)
+| 169 | [PLACEHOLDER](#placeholder)
+| 170 | [PLACEHOLDER 2](#placeholder-2)
+| 171 | [PLACEHOLDER 3](#placeholder-3)
 | 172 | [What should you use?](#what-should-you-use-1)
 | 173 | [You have an Azure subscription named Sub1.](#you-have-an-azure-subscription-named-sub1)
 | 174 | [You have an Azure subscription named Subscription1 that contains the storage accounts shown in the following table: You plan to use the Azure Import/Export service to export data from Subscription1. You need to identify which storage account can be used to export the data. What should you identify?](#you-have-an-azure-subscription-named-subscription1-that-contains-the-storage-accounts-shown-in-the-following-table-you-plan-to-use-the-azure-importexport-service-to-export-data-from-subscription1-you-need-to-identify-which-storage-account-can-be-used-to-export-the-data-what-should-you-identify)
@@ -311,6 +311,8 @@
 
 ### You need to configure the Device settings to meet the technical requirements and the user requirements. Which two settings should you modify?
 
+![Question 15](images/question15.jpg)
+
 - [x] Box 1: all. Box 2: None. Box 3: All. Box 4: Yes. Box 5: None.
 - [ ] Box 1: selected. Box 2: Selected. Box 3: None. Box 4: Yes. Box 5: All.
 - [ ] Box 1: None. Box 2: None. Box 3: All. Box 4: No. Box 5: Selected.
@@ -318,12 +320,17 @@
 
 ### You need to meet the connection requirements for the New York office. What should you do?
 
+![Question 16](images/question15.jpg)
+
 - [ ] Box 1: Create an ExpressRoute circuit only.  Box 2: Deploy a DirectAccess server.
 - [ ] Box 1: Create a virtual network gateway only.  Box 2: Implement a Web Application Proxy.
 - [x] Box 1: Create a virtual network gateway and a local network gateway. Box 2: Configure a site-to-site VPN connection.
 - [ ] Box 1: Create a virtual network gateway and an on-premises data gateway. Box 2: Implement a Web Application Proxy.
 
 ### You have an Azure subscription named Subscription1 that contains the resources shown in the following table. In storage1, you create a blob container named blob1 and a file share named share1. Which resources can be backed up to Vault1 and Vault2?
+
+![Question 17 part 1](images/question17_1.jpg)
+![Question 17 part 2](images/question17_2.jpg)
 
 - [x] Box 1: VM1only  Box 2: share1 only.
 - [ ] Box 1: VM1 and sharel only  Box 2: VM1 and sharel only.
@@ -355,6 +362,8 @@
 
 ### You have an Azure virtual machine named VM1. The network interface for VM1 is configured as shown in the exhibit. You deploy a web server on VM1, and then create a secure website that is accessible by using the HTTPS protocol VM1 is used as a web server only. You need to ensure that users can connect to the website from the Internet. What should you do?
 
+![Question 21](images/question21.jpg)
+
 - [ ] Change the priority of Rule3 to 450.
 - [ ] Change the priority of Rule6 to 100.
 - [ ] DeleteRule1.
@@ -362,6 +371,8 @@
 - [x] For Rule5, change the Action to Allow and change the priority to 401.
 
 ### You have an azure subscription named Subscription that contains the resource groups shown in the following table. In RG1, you create a virtual machine named VM1 in the East Asia location. You plan to create a virtual network named VNET1. You need to create VNET, and then connect VM1 to VNET1. What are two possible ways to achieve this goal? Each correct answer presents a complete a solution.
+
+![Question 22](images/question22.jpg)
 
 - [x] Create VNET1 in RG2, and then set East Asia as the location.
 - [ ] Create VNET1 in a new resource group in the West US location, and then set West US as the location.
@@ -376,6 +387,8 @@
 - [ ] From the Directory role blade, modify the directory role.
 
 ### Your on-premises network contains an Active Directory domain named adatum.com that is synced to Azure Active Directory (Azure AD). Password writeback is disabled. In adatum.com, you create the users shown in the following table
+
+![Question 30](images/question30.jpg)
 
 - [ ] User2 only.
 - [ ] User1 and User3 only.
@@ -392,6 +405,9 @@
 
 ### You have an Azure Active Directory (Azure AD) tenant named adatum.com. Adatum.com contains the groups in the following table. You create two user accounts that are configured as shown in the following table. To which groups do User1 and User2 belong?
 
+![Question 30 part 1](images/question30.jpg)
+![Question 30 part 2](images/question30_2.jpg)
+
 - [x] Box 1: Group1 only. Box 2: Group1 and Group3 only.
 - [ ] Box 1: Group2 only. Box 2: Group1 only.
 - [ ] Box 1: Group3 only. Box 2: Group2 only.
@@ -399,6 +415,9 @@
 - [ ] Box 1: Groupi, Group2, and Group3. Box 2: Group2 and Group3 only.
 
 ### You have an Azure subscription that contains an Azure Availability Set named WEBPROD-AS-USE2 as shown in the following exhibit. You have an Azure subscription named Subscription1 that contains the resources shown in the following table.
+
+![Question 34 part 1](images/question34.jpg)
+![Question 34 part 2](images/question34_2.jpg)
 
 - [ ] Box 1: 14. Box 2: 2.
 - [ ] Box 1: 10. Box 2: 10.
@@ -425,6 +444,9 @@
 
 ### You have an Azure subscription that contains the public load balancers shown in the following table. You create virtual machines in Subscription1 as shown in the following table. You plan to use Vault1 for the backup of as many virtual machines as possible. Which virtual machines can be backed up to Vault1?
 
+![Question 35 part 1](images/question35_1.jpg)
+![Question 35 part 2](images/question35_2.jpg)
+
 - [x] VM1, VM3, VMA, and VMC only.
 - [ ] VM1 and VM3 only.
 - [ ] VM1, VM2, VM3, VMA, VMB, and VMC.
@@ -447,10 +469,16 @@
 
 ### You have an Azure Active Directory (Azure AD) tenant named contoso.com that is synced to an Active Directory domain. The tenant contains the users shown in the following table. The users have the attributes shown in the following table. You need to ensure that you can enable Azure Multi-Factor Authentication (MFA) for all four users. Solution: You add an office phone number for User2. Does this meet the goal?
 
+![Question 40 part 1](images/question40_1.jpg)
+![Question 40 part 2](images/question40_2.jpg)
+
 - [x] No.
 - [ ] Yes.
 
 ### You have peering configured as shown in the following exhibit.
+
+![Question 43 part 1](images/question43_1.jpg)
+![Question 43 part 2](images/question43_2.jpg)
 
 - [x] Box 1: VNET6 only. Box 2: delete peering1.
 - [ ] Box 1: VNET6, VNET1, and VvNET2 only. Box 2: add a service endpoint.
@@ -481,12 +509,16 @@
 
 ### You create an Azure VM named VM1 that runs Windows Server 2019. VM1 is configured as shown in the exhibit. You need to enable Desired State Configuration for VM1. What should you do first?
 
+![Question 46](images/question46.jpg)
+
 - [ ] Configure a DNS name for VM1.
 - [x] Start VM1.
 - [ ] Connect to VM1.
 - [ ] Capture a snapshot of VM1.
 
 ### You have an Azure subscription that contains the resources shown in the following table. You need to create a network interface named NIC1. In which location can you create NIC1?
+
+![Question 47](images/question47.jpg)
 
 - [ ] East US and North Europe only.
 - [ ] East US and West Europe only.
@@ -513,6 +545,9 @@
 - [x] No.
 
 ### Topic 4, Misc. Questions Set A You have an Azure subscription that contains the resources shown in the following table. All virtual machines run Windows Server 2016. On VM1, you back up a folder named Folder1 as shown in the following exhibit. You plan to restore the backup to a different virtual machine. You need to restore the backup to VM2. What should you do first?
+
+![Question 51 part 1](images/question51_1.jpg)
+![Question 51 part 1](images/question51_2.jpg)
 
 - [x] From VM2, install the Microsoft Azure Recovery Services Agent.
 - [ ] From VM1, install the Windows Server Backup feature.
@@ -575,25 +610,44 @@
 
 ### You have an Azure subscription named Subscription1 that contains the resources shown in the following table. VM1 connects to a virtual network named VNET2 by using a network interface named NIC1. You need to create a new network interface named NIC2 for VM1. Solution: You create NIC2 in RG2 and Central US. Does this meet the goal?
 
+![Question 53](images/question53.jpg)
+
 - [ ] Yes.
 - [x] No.
 
 ### You manage two Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following virtual networks: The virtual networks contain the following subnets: Subscription2 contains the following virtual network: Name: VNETA. Address space: 10.10.128.0/17. Location: Canada Central VNETA contains the following subnets: A Site-to-Site connection can be established.
+
+![Question 75 part 1](images/question75_1.jpg)
+![Question 75 part 2](images/question75_2.jpg)
+![Question 75 part 3](images/question75_3.jpg)
+![Question 75 part 4](images/question75_4.jpg)
 
 - [x] Yes.
 - [ ] No.
 
 ### You manage two Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following virtual networks: The virtual networks contain the following subnets: Subscription2 contains the following virtual network: Name: VNETA. Address space: 10.10.128.0/17. Location: Canada Central VNETA contains the following subnets: VNET1 and VNET2 can be peered.
 
+![Question 75 part 1](images/question75_1.jpg)
+![Question 75 part 2](images/question75_2.jpg)
+![Question 75 part 3](images/question75_3.jpg)
+![Question 75 part 4](images/question75_4.jpg)
+
 - [x] Yes.
 - [ ] No.
 
 ### You manage two Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following virtual networks: The virtual networks contain the following subnets: Subscription2 contains the following virtual network: Name: VNETA. Address space: 10.10.128.0/17. Location: Canada Central VNETA contains the following subnets:VNET1 and VNETA can be peered.
 
+![Question 75 part 1](images/question75_1.jpg)
+![Question 75 part 2](images/question75_2.jpg)
+![Question 75 part 3](images/question75_3.jpg)
+![Question 75 part 4](images/question75_4.jpg)
 - [ ] Yes.
 - [x] No.
 
 ### You have an Azure subscription that contains the resources in the following table. VM1 and VM2 are deployed from the same template and host line-of-business applications accessed by using Remote Desktop. You configure the network security group (NSG) shown in the exhibit. You need to prevent users of VM1 and VM2 from accessing websites on the Internet. What should you do?
+
+![Question 55 part 1](images/question55_1.jpg)
+![Question 55 part 2](images/question55_2.jpg)
 
 - [x] Associate the NSG to Subnet1.
 - [ ] Disassociate the NSG from a network interface.
@@ -601,6 +655,8 @@
 - [ ] Change the Port_80 inbound security rule.
 
 ### You have an Azure subscription named Subcription1 that contains a resource group named RG1. In RG1. you create an internal load balancer named LB1 and a public load balancer named 162. You need to ensure that an administrator named Admin 1 can manage LB1 and LB2. The solution must follow the principle of least privilege. Which role should you assign to Admin1 for each task?
+
+![Question 57](images/question57.jpg)
 
 - [x] Box 1: Network Contributor on RG1. Box 2: Network Contributor on RG1.
 - [ ] Box 1: Owner on LB1. Box 2: Owneron LB2.
@@ -616,12 +672,18 @@
 
 ### You have an Azure subscription named Subscription1 that contains the resources shown in the following table. You plan to configure Azure Backup reports for Vault1. You are configuring the Diagnostics settings for the AzureBackupReports log. Which storage accounts and which Log Analytics workspaces can you use for the Azure Backup reports of Vault1?
 
+![Question 59 part 1](images/question59_1.jpg)
+![Question 59 part 2](images/question59_2.jpg)
+
 - [x] Box 1: storage3 only. Box 2: Analytics3 only.
 - [ ] Box 1: storage1, storage2, and storage3. Box 2: Analytics1 only.
 - [ ] Box 1: storage1 only. Box 2: Analytics2 only.
 - [ ] Box 1: storage2 only. Box 2: Analytics1, Analytics2, and Analytics3.
 
 ### You have several Azure virtual machines on a virtual network named VNet1. You configure an Azure Storage account as shown in the following exhibit.
+
+![Question 60 part 1](images/question60_1.jpg)
+![Question 60 part 2](images/question60_2.jpg)
 
 - [x] Box 1: never. Box 2:never.
 - [ ] Box 1: never. Box 2: during a backup.
@@ -637,6 +699,8 @@
 
 ### You have an Azure subscription that contains the following users in an Azure Active Directory tenant named contoso.onmicrosoft.com: User1 creates a new Azure Active Directory tenant named external.contoso.onmicrosoft.com. You need to create new user accounts in external.contoso.com.onmicrosoft.com. Solution: You instruct User3 to create the user accounts.
 
+![Question 25](images/question25.jpg)
+
 - [ ] Yes.
 - [x] No.
 
@@ -648,6 +712,9 @@
 - [ ] ContosoAdmin1@hotmail.com.
 
 ### You have an Active Directory domain named contoso.com that contains the objects shown in the following table. The groups have the memberships shown in the following table. OU1 and OU2 are synced to Azure Active Directory (Azure AD). You modify the synchronization settings and remove OU1 from synchronization. You sync Active Directory and Azure AD. Which objects are in Azure AD?
+
+![Question 62 part 1](images/question62_1.jpg)
+![Question 62 part 2](images/question62_2.jpg)
 
 - [ ] User4 and Group2 only.
 - [ ] User2, Group1, User4, and Group2 only.
@@ -722,24 +789,31 @@
 - [x] Yes.
 - [ ] No.
 
-### You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions:. What is your favorite food? In what city was your first job? What was the name of your first pet? SecAdmin1 must answer the following question if he wants to reset his password: In what city was your first job?
+### You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? SecAdmin1 must answer the following question if he wants to reset his password: In what city was your first job?
+
+[Question 69](images/question69.jpg)
 
 - [ ] Yes.
 - [x] No.
 
 ### You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? BillAdmin1 must answer the following question if he wants to reset his password: What is your favorite food?
 
+[Question 69](images/question69.jpg)
+
 - [x] Yes.
 - [ ] No.
 
 ### Huongous Insurance is an insurance company that has three offices in Miami, Tokoyo, and Bangkok. Each has 5000 users. Active Directory Environment Humongous Insurance has a single-domain Active Directory forest named humongousinsurance.com. The functional level of the forest is Windows Server 2012. You recently provisioned an Azure Active Directory (Azure AD) tenant. Network Infrastructure Each office has a local data center that contains all the servers for that office. Each office has a dedicated connection to the Internet. Each office has several link load balancers that provide access to the servers. Active Directory Issue Several users in humongousinsurance.com have UPNs that contain special characters. You suspect that some of the characters are unsupported in Azure AD. Licensing Issue You attempt to assign a license in Azure to several users and receive the following error message: 'Licenses not assigned. License agreement failed for one user.' You verify that the Azure subscription has the available licenses. Requirements Planned Changes Humongous Insurance plans to open a new office in Paris. The Paris office will contain 1,000 users who will be hired during the next 12 months. All the resources used by the Paris office users will be hosted in Azure. Planned Azure AD Infrastructure The on-premises Active Directory domain will be synchronized to Azure AD. All client computers in the Paris office will be joined to an Azure AD domain. Planned Azure Networking Infrastructure You plan to create the following networking resources in a resource group named All_Resources: Default Azure system routes that will be the only routes used to route traffic. A virtual network named Paris-VNet that will contain two subnets named Subnet1 and Subnet2. A virtual network named ClientResources-VNet that will contain one subnet named ClientSubnet. A virtual network named AllOffices-VNet that will contain two subnets named Subnet3 and Subnet4 You plan to enable peering between Paris-VNet and AllOffices-VNet. You will enable the Use remote gateways setting for the Paris-VNet peerings. You plan to create a private DNS zone named humongousinsurance.local and set the registration network to the ClientResources-VNet virtual network. Planned Azure Computer Infrastructure Each subnet will contain several virtual machines that will run either Windows Server 2012 R2, Windows Server 2016, or Red Hat Linux. Department Requirements Humongous Insurance identifies the following requirements for the company's departments: Web administrators will deploy Azure web apps for the marketing department. Each web app will be added to a separate resource group. The initial configuration of the web apps will be identical. The web administrators have permission to deploy web apps to resource groups. During the testing phase, auditors in the finance department must be able to review all Azure costs from the past week. Authentication Requirements Users in the Miami office must use Azure Active Directory Seamless Single Sign-on (Azure AD Seamless SSO) when accessing resources in Azure. DRAG DROP You need to prepare the environment to ensure that the web administrators can deploy the web apps as quickly as possible. Which three actions should you perform in sequence?
 
+[Question 66](images/question66.jpg)
 - [x] Box 1: Create aresource group, and then deploy a web app o the resource group. Box 2: From the Automation script blade of the resource group, click Add to library. Box 3: From the Templates service, select the template, and then share the template to the web adminstrators.
 - [ ] Box 1: From the Automation scrpt blade of the resource. group, click Add to library. Box 2: From the Templates service, select the template, and then share the template to the web administrators. Box 3: Create a resource group, and then deploy a web app to the resource group.
 - [ ] Box 1: From the Automaton script blade of the resource group, click Add to library. Box 2: Create a resource group, and then deploy a web app to the resource group. Box 3: From the Automaton script blade of the resource group, click Deploy.
 - [ ] Box 1: Create a resource group, and then deploy a web app to the resource group. Box 2: From the Automaton script blade of the resource group, click Add to library. Box 3: From the Templates service, select the template, and then share the template to the web administrators.
 
 ### You have an Azure subscription that contains an Azure Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shown in the following table. You enable self-service password reset (SSPR) for all users and configure SSPR to have the following authentication methods: Number of methods required to reset: 2. Methods available to users: Mobile phone, Security questions. Number of questions required to register: 3. Number of questions required to reset: 3 You select the following security questions: What is your favorite food? In what city was your first job? What was the name of your first pet? User1 must answer the following question if he wants to reset his password: What was the name of your first pet?
+
+[Question 69](images/question69.jpg)
 
 - [x] Yes.
 - [ ] No.
@@ -761,6 +835,9 @@
 
 ### You have Azure virtual machines that run Windows Server 2019 and are configured as shown in the following table.You create a public Azure DNS zone named adatum.com and a private Azure DNS zone named contoso.com. For contoso.com, you create a virtual network link named link1 as shown in the exhibit. (Click the Exhibit tab.)You discover that VM1 can resolve names in contoso.com but cannot resolve names in adatum.com. VM1 can resolve other hosts on the internet. You need to ensure that VM1 can resolve host names in adatum.com.
 
+[Question 70 part 1](images/question70_1.jpg)
+[Question 70 part 2](images/question70_2.jpg)
+
 - [ ] Update the DNS suffix on VM1 to be adatum.com.
 - [ ] Create an SRV record in the contoso.com zone.
 - [x] Configure the name servers for adatum.com at the domain registrar.
@@ -776,12 +853,17 @@
 
 ### You have an Azure subscription named Sub1. You plan to deploy a multi-tiered application that will contain the tiers shown in the following table. You need to recommend a networking solution to meet the following requirements: Ensure that communication between the web servers and the business logic tier spreads equally across the virtual machines. Protect the web servers from SQL injection attacks. Which Azure resource should you recommend for each requirement?
 
+[Question 78 part 1](images/question78.jpg)
+[Question 78 part 2](images/question78_2.jpg)
+
 - [x] Box 1: an internal load balancer. Box 2: an application gateway that uses the WAF tier.
 - [ ] Box 1: an application gateway that uses the WAF tier. Box 2: an application gateway that uses the Standard tier.
 - [ ] Box 1: an application gateway that uses the Standard tier. Box 2: a public load balancer.
 - [ ] Box 1: a public load balancer. Box 2: a network security group (NSG).
 
 ### You have an Azure virtual network named VNet1 that connects to your on-premises network by using a site-to-site VPN. VMet1 contains one subnet named Subnet1. Subnet1 is associated to a network security group (NSG) named NSG1. Subnet1 contains a basic internal load balancer named ILB1. ILB1 has three Azure virtual machines in the backend pool. You need to collect data about the IP addresses that connects to ILB1. You must be able to run interactive queries from the Azure portal against the collected data. What should you do?
+
+[Question 79](images/question79.jpg)
 
 - [x] Box 1: An Azure Log Analytics workspace. Box 2: ILB1.
 - [ ] Box 1: An Azure Storage account. Box 2: NSG1.
@@ -790,12 +872,17 @@
 
 ### You have an Azure subscription that contains an Azure Storage account. You plan to copy an on-premises virtual machine image to a container named vmimages. You need to create the container for the planned image. Which command should you run?
 
+[Question 80](images/question80.jpg)
+
 - [x] Box 1: make. Box 2: blob.
 - [ ] Box 1: copy. Box 2: queue.
 - [ ] Box 1: sync. Box 2: table.
 - [ ] Box 1: sync. Box 2: images.
 
 ### You have the Azure virtual machines shown in the following table. A DNS service is installed on VM1. You configure the DNS server settings for each virtual network as shown in the following exhibit. You need 10 ensure that all the virtual machines can resolve DNS names by using the DNS service on VM1. What should you do?
+
+[Question 41 part 1](images/question41.jpg)
+[Question 41 part 2](images/question41_2.jpg)
 
 - [ ] Add service endpoints on VNET2 and VNET3.
 - [ ] Configure peering between VNE11, VNETT2, and VNET3.
@@ -804,12 +891,16 @@
 
 ### You need to recommend a solution for App1. The solution must meet the technical requirements. What should you include in the recommendation?
 
+[Question 83](images/question83.jpg)
+
 - [x] Box 1: 1. Box 2: 3.
 - [ ] Box 1: 3. Box 2: 1.
 - [ ] Box 1: 2. Box 2: 2.
 - [ ] Box 1: . Box 2: .???
 
 ### You need to create an Azure Storage account that meets the following requirements: Minimizes costs. Supports hot, cool, and archive blob tiers. Provides fault tolerance if a disaster affects the Azure region where the account resides How should you complete the command?
+
+[Question 90](images/question90.jpg)
 
 - [ ] Box 1: BlobStorage. Box 2: Standard_LRS.
 - [x] Box 1: StorageV2. Box 2: Standard_GRS.
@@ -848,6 +939,8 @@
 - [x] No.
 
 ### You have an Azure subscription named Subscription1 that contains the resources shown in the following table. VM1 connects to a virtual network named VNET2 by using a network interface named NIC1. You need to create a new network interface named NIC2 for VM1. Solution: You create NIC2 in RG2 and West US. Does this meet the goal?
+
+[Question 76](images/question76.jpg)
 
 - [x] Yes.
 - [ ] No.
@@ -925,12 +1018,19 @@
 
 ### You have a pay-as-you-go Azure subscription that contains the virtual machines shown in the following table. You create the budget shown in the following exhibit. The AG1 action group contains a user named admin@contoso.com only.
 
+[Question 58 part 1](images/question58_1.jpg)
+[Question 58 part 2](images/question58_2.jpg)
+[Question 58 part 3](images/question58_3.jpg)
+
 - [ ] Box 1: VM1 and VM2 are turned off. Box 2: no email notifications will be sent each month.
 - [x] Box 1: VM1 and VM2 continue to run. Box 2: one email notification will be sent each month.
 - [ ] Box 1: VM1 is turned off, and VM2 continues to run. Box 2: three email notifications will be sent each month.
 - [ ] Box 1: VM1 and VM2 continue to run. Box 2: two email notifications will be sent each month.
 
 ### You have an Azure subscription that contains two virtual networks named VNet1 and VNet2. Virtual machines connect to the virtual networks. The virtual networks n on-premises server named Server1 the configured as shown in the following table. You need to add the address space of 10.33.0.0/16 to VNet1. The solution must ensure that the hosts on VNet1 and VNet2 can communicate. Which three actions should you perform in sequence?
+
+[Question 95 part 1](images/question95_1.jpg)
+[Question 95 part 2](images/question95_2.jpg)
 
 - [x] Box 1: Remove peering between VNet1 and VNet2. Box 2: Add the 10.33.0.0/16 address space to VNet1. Box 3: Recreate peering between VNet1 and VNet2.
 - [ ] Box 1: Create a new virtual network named VNetl. Box 2: Add the 10.33.0.0/16 address space to VNet1. Box 3: On the peering connection in VNet2, allow gateway transit.
@@ -1102,8 +1202,6 @@
 - [ ] Box 1:cannot connect to the container Box 2: the container must be redeployed.
 - [ ] Box 1:can connect to the container from any device Box 2: the container will restart automatically.
 
-
-
 ### You have an Azure virtual machine named VM1. You use Azure Backup to create a backup of VM1 named Backup1. After creating Backup1, you perform the following changes to VM1: * Modify the size of VM1. * Copy a file named Budget.xls to a folder named Data. * Reset the password for the built-in administrator account. * Add a data disk to VM1. An administrator uses the Replace existing option to restore VM1 from Backup1. You need to ensure that all the changes to VM1 are restored. Which change should you perform again?
 
 - [ ] Modify the size of VM1.
@@ -1203,7 +1301,6 @@
 - [x] an inbound NAT rule.
 - [ ] a frontend IP configuration.
 
-
 ### You have an azure subscription that contain a virtual named VNet1. VNet1. contains four subnets named Gatesway, perimeter, NVA, and production. The NVA contain two network virtual appliance (NVAs) that will network traffic inspection between the perimeter subnet and the production subnet. You need to implement an Azure load balancer for the NVAs. The solution must meet the following requirements: The NVAs must run in an active-active configuration that uses automatic failover. The NVA must load balance traffic to two services on the Production subnet. The services have different IP addresses. Which three actions should you perform? Each correct answer presents parts of the solution.
 
 - [ ] Add two load balancing rules that have HA Ports enabled and Floating IP disabled.
@@ -1265,8 +1362,6 @@
 - [ ] Box 1:can connect to only the DNS server on VM1 Box 2:cannot connect to the web server and the DNS server on VM1.
 - [x] Box 1:can connect to only the web server on VM1 Box 2:can connect to the web server and the DNS server on VM1.
 
-
-
 ### You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG2.
 
 - [x] Yes.
@@ -1289,29 +1384,13 @@
 - [ ] the Azure portal
 ibit
 
-### You have an Azure subscription named Subscription1. Subscription1 contains a virtual machine named VM1. You install and configure a web server and a DNS server on VM1. VM1 has the effective network security rules shown in the following exhibit.
+### PLACEHOLDER 4.
 
-- [ ] Box 1:cannot connect to the web server and the DNS server on VM1 Box 2: can connect to only the DNS server on VM1.
-- [ ] Box 1:can connect to the web server and the DNS server on VM1 Box 2:can connect to only the web server on VM1.
-- [ ] Box 1:can connect to only the DNS server on VM1 Box 2:cannot connect to the web server and the DNS server on VM1.
-- [x] Box 1:can connect to only the web server on VM1 Box 2:can connect to the web server and the DNS server on VM1.
+### PLACEHOLDER
 
+### PLACEHOLDER 2
 
-
-### You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG2.
-
-- [x] Yes.
-- [ ] No.
-
-### You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG3.
-
-- [x] Yes.
-- [ ] No.
-
-### You have Azure subscriptions named Subscription1 and Subscription2. Subscription1 has following resource groups: RG1 includes a web app named App1 in the West Europe location. Subscription2 contains the following resource groups: App1 can be moved to RG4.
-
-- [x] Yes.
-- [ ] No.
+### PLACEHOLDER 3
 
 ### What should you use?
 
@@ -1338,21 +1417,26 @@ You plan to deploy a multi-tiered application that will contain the tiers shown 
 - [ ] one fault domain.
 - [x] two update domains.
 
-
-
 ### You have an Azure subscription that contains the virtual machines shown in the following table. VM1 and VM2 use public IP addresses. From Windows Server 2019 on VM1 and VM2, you allow inbound Remote Desktop connections. Subnet1 and Subnet2 are in a virtual network named VNET1. The subscription contains two network security groups (NSGs) named NSG1 and NSG2. NSG1 uses only the default rules. NSG2 uses the default and the following custom incoming rule: Priority: 100. Name: Rule1. Port: 3389. Protocol: TCP. Source: Any. Destination: Any. Action: Allow NSG1 connects to Subnet1. NSG2 connects to the network interface of VM2. From the Internet, you can connect to VM1 by using Remote Desktop.
+
+[Question 97 part 1](images/question97.jpg)
+[Question 97 part 2](images/question97_2.jpg)
 
 - [ ] Yes.
 - [x] No.
 
-### You have an Azure subscription that contains the virtual machines shown in the following table. VM1 and VM2 use public IP addresses. From Windows Server 2019 on VM1 and VM2, you allow inbound Remote Desktop connections. Subnet1 and Subnet2 are in a virtual network named VNET1. The subscription contains two network security groups (NSGs) named NSG1 and NSG2. NSG1 uses only the default rules. NSG2 uses the default and the following custom incoming rule: Priority: 100. Name: Rule1. Port: 3389. Protocol: TCP. Source: Any. Destination: Any. Action: Allow NSG1 connects to Subnet1. NSG2 connects to the network interface of VM2. From the Internet, you can connect to VM2 by using
-Remote Desktop.
+### You have an Azure subscription that contains the virtual machines shown in the following table. VM1 and VM2 use public IP addresses. From Windows Server 2019 on VM1 and VM2, you allow inbound Remote Desktop connections. Subnet1 and Subnet2 are in a virtual network named VNET1. The subscription contains two network security groups (NSGs) named NSG1 and NSG2. NSG1 uses only the default rules. NSG2 uses the default and the following custom incoming rule: Priority: 100. Name: Rule1. Port: 3389. Protocol: TCP. Source: Any. Destination: Any. Action: Allow NSG1 connects to Subnet1. NSG2 connects to the network interface of VM2. From the Internet, you can connect to VM2 by using Remote Desktop.
+
+[Question 97 part 1](images/question97.jpg)
+[Question 97 part 2](images/question97_2.jpg)
 
 - [x] Yes.
 - [ ] No.
 
-### You have an Azure subscription that contains the virtual machines shown in the following table. VM1 and VM2 use public IP addresses. From Windows Server 2019 on VM1 and VM2, you allow inbound Remote Desktop connections. Subnet1 and Subnet2 are in a virtual network named VNET1. The subscription contains two network security groups (NSGs) named NSG1 and NSG2. NSG1 uses only the default rules. NSG2 uses the default and the following custom incoming rule: Priority: 100. Name: Rule1. Port: 3389. Protocol: TCP. Source: Any. Destination: Any. Action: Allow NSG1 connects to Subnet1. NSG2 connects to the network interface of VM2. From VM1, you can connect to VM2 by using Remote
-Desktop.
+### You have an Azure subscription that contains the virtual machines shown in the following table. VM1 and VM2 use public IP addresses. From Windows Server 2019 on VM1 and VM2, you allow inbound Remote Desktop connections. Subnet1 and Subnet2 are in a virtual network named VNET1. The subscription contains two network security groups (NSGs) named NSG1 and NSG2. NSG1 uses only the default rules. NSG2 uses the default and the following custom incoming rule: Priority: 100. Name: Rule1. Port: 3389. Protocol: TCP. Source: Any. Destination: Any. Action: Allow NSG1 connects to Subnet1. NSG2 connects to the network interface of VM2. From VM1, you can connect to VM2 by using Remote Desktop.
+
+[Question 97 part 1](images/question97.jpg)
+[Question 97 part 2](images/question97_2.jpg)
 
 - [x] Yes.
 - [ ] No.
@@ -1402,6 +1486,9 @@ Desktop.
 - [ ] RVAULT1 only.
 
 ### You have an Azure subscription that contains the public load balancers shown in the following table.You plan to create six virtual machines and to load balancer requests to the virtual machines. Each load balancer will load balance three virtual machines. You need to create the virtual machines for the planned solution. How should you create the virtual machines?
+
+![Question 36 part 1](images/question36.jpg)
+![Question 36 part 2](images/question36_2.jpg)
 
 - [x] Box 1: be created in the same availability set or virtual machine scale set. Box 2: be connectedtothe same virtuainetwork.
 - [ ] Box 1: run the same operating system. Box 2: be created in the same resource group.
@@ -1458,3 +1545,8 @@ Desktop.
 - [ ] Deploy a function app.
 - [x] Deploy the IT Service Management Connector (ITSM).
 - [ ] Create a notification.
+
+### You need to identify the storage requirements for Contoso. Contoso requires a storage account that supports Azure File storage.
+
+- [ ] Yes.
+- [x] No.
