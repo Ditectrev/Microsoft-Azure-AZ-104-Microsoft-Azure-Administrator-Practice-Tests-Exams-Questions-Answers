@@ -526,7 +526,7 @@
 
 ### You have peering configured as shown in the following exhibit.
 
-![Question 43 part 1](images/question43.jpg)
+![Question 43 part 1](images/question43_1.jpg)
 ![Question 43 part 2](images/question43_2.jpg)
 
 - [x] Box 1: VNET6 only. Box 2: delete peering1.
