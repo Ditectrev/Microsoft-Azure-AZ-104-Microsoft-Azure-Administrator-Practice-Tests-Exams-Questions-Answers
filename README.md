@@ -613,7 +613,7 @@
 - [ ] Restore the backup of App1.
 
 ### You have an Azure subscription that contains the resources shown in the following table. VM1 connects to VNET1. You need to connect VM1 to VNET2. Solution: You create a new network interface, and then you add the network interface to VM1. Does this meet the goal?
-![Question 253](images/question253.jpg)
+![Question 260](images/question260.jpg)
 - [ ] Yes.
 - [x] No.
 
@@ -811,7 +811,8 @@
 - [ ] No.
 
 ### You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. Network traffic from VM3 can reach VM1.
-![Question 307 part 1](images/question307.jpg)
+
+![Question 307 part 1](images/question307_1.jpg)
 ![Question 307 part 2](images/question307_2.jpg)
 ![Question 307 part 3](images/question307_3.jpg)
 ![Question 307 part 4](images/question307_4.jpg)
@@ -819,6 +820,7 @@
 - [ ] No.
 
 ### You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. If VM3 is turned off, network traffic from VM2 can reach VM1.
+
 ![Question 307 part 1](images/question307.jpg)
 ![Question 307 part 2](images/question307_2.jpg)
 ![Question 307 part 3](images/question307_3.jpg)
@@ -827,6 +829,7 @@
 - [x] No.
 
 ### You have an Azure subscription named Subscription1. Subscription1 contains the virtual machines in the following table. Subscription1 contains a virtual network named VNet1 that has the subnets in the following table. VM3 has a network adapter named NIC3. IP forwarding is enabled on NIC3. Routing is enabled on VM3. You create a route table named RT1. RT1 is associated to Subnet1 and Subnet2 and contains the routes in the following table. You apply RT1 to Subnet1. Network traffic from VM1 can reach VM2.
+
 ![Question 307 part 1](images/question307.jpg)
 ![Question 307 part 2](images/question307_2.jpg)
 ![Question 307 part 3](images/question307_3.jpg)
@@ -1075,7 +1078,7 @@
 - [ ] Azure Storage account and an access policy.
 
 ### You have an Azure subscription named Subscription1 that is used by several departments at your company. Subscription1 contains the resources in the following table: Another administrator deploys a virtual machine named VM1 and an Azure Storage account named Storage2 by using a single Azure Resource Manager template. You need to view the template used for the deployment. From which blade can you view the template that was used for the deployment?
-[Question 238](images/question238.jpg)
+[Question 259](images/question259.jpg)
 - [x] RG1.
 - [ ] VM1.
 - [ ] Storage1.
@@ -1090,7 +1093,7 @@
 - [ ] blob, table, and queue only.
 
 ### You have Azure virtual machines that run Windows Server 2019 and are configured as shown in the following table. You create a private Azure DNS zone named adatum.com. You configure the adatum.com zone to allow auto registration from VNET1. Which A records will be added to the adatum.com zone for each virtual machine?
-[Question 282 part 1](images/question282.jpg)
+[Question 282 part 1](images/question282_1.jpg)
 [Question 282 part 2](images/question282_2.jpg)
 - [ ] Box 1: None. Box 2: None.
 - [x] Box 1: Public IP address only. Box 2: Private IP address only.
@@ -1298,7 +1301,7 @@
 - [x] Deploy an internal load balancer.
 
 ### You have an Azure subscription named Subscription1 that contains a virtual network named VNet1. You add the users in the following table. Which 2?
-[Question 303 part 1](images/question303.jpg)
+[Question 303 part 1](images/question303_1.jpg)
 [Question 303 part 2](images/question303_2.jpg)
 - [ ] Box 1: User1 only. Box 2: User1, User2, and User3.
 - [ ] Box 1: User1, User2, and. Box 2: User2 and User3 only.
@@ -1373,7 +1376,7 @@
 - [ ] Run the az acr build command.
 
 ### You have an Azure subscription that contains the Azure virtual machines shown in the following table. You add inbound security rules to a network security group (NSG) named NSG1 as shown in the following table.You run Azure Network Watcher as shown in the following exhibit. You run Network Watcher again as shown in the following exhibit. NSG1 limits VM1 traffic.
-![Question 352 part 1](images/question352.jpg)
+![Question 352 part 1](images/question352_1.jpg)
 ![Question 352 part 2](images/question352_2.jpg)
 ![Question 352 part 3](images/question352_3.jpg)
 ![Question 352 part 4](images/question352_4.jpg)
@@ -1625,3 +1628,422 @@ Desktop.
 - [ ] Deploy a function app.
 - [x] Deploy the IT Service Management Connector (ITSM).
 - [ ] Create a notification.
+
+### You need to identify which resources you can move from RG1 to RG2, and which resources you can move from RG2 to RG1. Which resources should you identify? To answer, select the appropriate options in the answer area. Resources that you can move from RG1 to RG2:
+
+![Question 201](images/question201.jpg)
+
+- [ ] None
+- [ ] IP1 only
+- [x] IP1 and storage1 only
+- [ ] IP1 and VNET1 only
+- [ ] IP1, VNET2, and storage1
+
+### Resources that you can move from RG2 to RG1:
+
+- [x] None
+- [ ] IP2 only
+- [ ] IP2 and storage2 only
+- [ ] IP2 and VNET2 only
+- [ ] IP2, VNET2, and storage2
+
+### Which Azure resource should you recommend for each requirement? To answer, select the appropriate options in the answer area. Ensure that communication between the web servers and the business logic tier spreads equally across the virtual machines:
+
+![Question 203](images/question203.jpg)
+
+- [ ] an application gateway that uses the Standard tier
+- [ ] an application gateway that uses the WAF tier
+- [x] an internal load balancer
+- [ ] a network security group (NSG)
+- [ ] a public load balancer
+
+### You have Azure Active Directory tenant named Contoso.com that includes following users: Contoso.com includes following Windows 10 devices: You create following security groups in Contoso.com: User1 can add device2 to Group1.
+
+![Question 210 part 1](images/question210_1.jpg)
+![Question 210 part 2](images/question210_2.jpg)
+![Question 210 part 3](images/question210_3.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### You have Azure Active Directory tenant named Contoso.com that includes following users: Contoso.com includes following Windows 10 devices: You create following security groups in Contoso.com: User1 can add device1 to Group1.
+
+![Question 210 part 1](images/question210_1.jpg)
+![Question 210 part 2](images/question210_2.jpg)
+![Question 210 part 3](images/question210_3.jpg)
+
+- [ ] Yes.
+- [x] No.
+
+### You have Azure Active Directory tenant named Contoso.com that includes following users: Contoso.com includes following Windows 10 devices: You create following security groups in Contoso.com: User1 can add device2 to Group2.
+
+![Question 210 part 1](images/question210_1.jpg)
+![Question 210 part 2](images/question210_2.jpg)
+![Question 210 part 3](images/question210_3.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### You have a sync group named Sync1 that has a cloud endpoint. The cloud endpoint includes a file named File1.txt. You add Share1 as an endpoint for Sync1. One hour later, you add Share2 as an endpoint for Sync1. On the cloud endpoint, file1.txt is overwritten by file1.txt from share1.
+
+![Question 211](images/question211.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### You have a sync group named Sync1 that has a cloud endpoint. The cloud endpoint includes a file named File1.txt. You add Share1 as an endpoint for Sync1. One hour later, you add Share2 as an endpoint for Sync1. On the cloud endpoint, On Server1, File1.txt is overwritten by file1.txt from the cloud endpoint.
+
+![Question 211](images/question211.jpg)
+
+- [ ] Yes.
+- [x] No.
+
+### You have a sync group named Sync1 that has a cloud endpoint. The cloud endpoint includes a file named File1.txt. You add Share1 as an endpoint for Sync1. One hour later, you add Share2 as an endpoint for Sync1. On the cloud endpoint, On Server1, File1.txt Share1 replicates to Share2.
+
+![Question 211](images/question211.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### You have an Azure subscription that contains the resources in the following table. You install the Web Server server role (IIS) on VM1 and VM2, and then add VM1 and VM2 to LB1. LB1 is configured as shown in the LB1 exhibit. (Click the LB1 tab.)
+
+![Question 224](images/question224.jpg)
+
+### VM1 is in the same availability set as VM2.
+
+![Question 224](images/question224.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### If Probe1.htm is present on VM1 and VM2, LB1 will balance TCP port 80 between VM1 and VM2.
+
+![Question 224](images/question224.jpg)
+
+- [x] Yes.
+- [ ] No.
+
+### If you delete Rule1, LB1 will balance all the requests between VM1 and VM2 for all the ports.
+
+![Question 224](images/question224.jpg)
+
+- [ ] Yes.
+- [x] No.
+
+### You plan to deploy five virtual machines to a virtual network subnet. Each virtual machine will have a public IP address and a private IP address. Each virtual machine requires the same inbound and outbound security rules. What is the minimum number of network interfaces and network security groups that you require? To answer, select the appropriate options in the answer area.
+
+![Question 235](images/question235.jpg)
+
+- [x] 5.
+- [ ] 10.
+- [ ] 15.
+- [ ] 20.
+
+### You plan to deploy five virtual machines to a virtual network subnet. Each virtual machine will have a public IP address and a private IP address. Each virtual machine requires the same inbound and outbound security rules. What is the minimum number of network interfaces and network security groups that you require? To answer, select the appropriate options in the answer area.
+
+![Question 235](images/question235.jpg)
+
+- [x] 1.
+- [ ] 2.
+- [ ] 5.
+- [ ] 10.
+
+### You have an Azure subscription that contains the resource groups shown in the following table. You need to identify which resources you can move from RG1 to RG2, and which resources you can move from RG2 to RG1. Which resources should you identify? To answer, select the appropriate options in the answer area. Resources that you can move from RG1 to RG2:
+
+![Question 239](images/question239.jpg)
+
+- [ ] None.
+- [ ] IP1 only.
+- [x] IP1 and storage1 only.
+- [ ] IP1 and VNET1 only.
+- [ ] IP1, VNET2, and storage1.
+
+### You have an Azure subscription that contains the resource groups shown in the following table. You need to identify which resources you can move from RG1 to RG2, and which resources you can move from RG2 to RG1. Which resources should you identify? To answer, select the appropriate options in the answer area. Resources that you can move from RG2 to RG1:
+
+![Question 239](images/question239.jpg)
+
+- [x] None.
+- [ ] IP2 only.
+- [ ] IP2 and storage2 only.
+- [ ] IP2 and VNET2 only.
+- [ ] IP2, VNET2, and storage2.
+
+### You have an Azure subscription named Subscription1 that contains a virtual network named VNet1. You add the users in the following table. Which user can perform each configuration? To answer, select the appropriate options in the answer area. Add a subnet to VNet1:
+
+![Question 256_1](images/question256_1.jpg)
+![Question 256_2](images/question256_2.jpg)
+
+- [x] User1 only.
+- [ ] User3 only.
+- [ ] User1 and User3 only.
+- [ ] User2 and User3 only.
+- [ ] User1, User2, and User3.
+
+### You have an Azure subscription named Subscription1 that contains a virtual network named VNet1. You add the users in the following table. Which user can perform each configuration? To answer, select the appropriate options in the answer area. Add a subnet to VNet1:
+
+![Question 256_1](images/question256_1.jpg)
+![Question 256_2](images/question256_2.jpg)
+
+- [ ] User1 only.
+- [ ] User2 only.
+- [ ] User3 only.
+- [ ] User1 and User2 only.
+- [ ] User2 and User3 only.
+- [x] User1, User2, and User3.
+
+### You have Azure subscription that includes data in following locations You plan to export data by using Azure import/export job named Export1. You need to identify the data that can be exported by using Export1. Which data should you identify?
+
+![Question 270](images/question270.jpg)
+
+- [ ] A. DB1
+- [x] B. container1
+- [ ] C. Share1
+- [ ] D. Table1
+
+### You have an Azure subscription named AZPT1 that contains the resources shown in the following table: You create a new Azure subscription named AZPT2. You need to identify which resources can be moved to AZPT2. Which resources should you identify?
+
+![Question 277](images/question277.jpg)
+
+- [ ] VM1, storage1, VNET1, and VM1Managed only
+- [ ] VM1 and VM1Managed only
+- [x] VM1, storage1, VNET1, VM1Managed, and RVAULT1
+- [ ] RVAULT1 only
+
+### You have an Azure subscription named Subscription1 that contains a resource group named RG1. In RG1, you create an internal load balancer named LB1 and a public load balancer named LB2. You need to ensure that an administrator named Admin1 can manage LB1 and LB2. The solution must follow the principle of least privilege. To add a backend pool to LB1. Which role should you assign to Admin1 for each task?
+
+![Question 286](images/question286.jpg)
+
+- [ ] Contributor on LB1
+- [x] Network Contributor on LB1
+- [ ] Network Contributor on RG1
+- [ ] Owner on LB1
+
+### You have an Azure subscription named Subscription1 that contains a resource group named RG1. In RG1, you create an internal load balancer named LB1 and a public load balancer named LB2. You need to ensure that an administrator named Admin1 can manage LB1 and LB2. The solution must follow the principle of least privilege. To add a health probe to LB2. Which role should you assign to Admin1 for each task?
+
+![Question 286](images/question286.jpg)
+
+- [ ] Contributor on LB2
+- [x] Network Contributor on LB2
+- [ ] Network Contributor on RG1
+- [ ] Owner on LB2
+
+### You have an Azure subscription that contains a virtual network named VNET1. VNET1 contains the subnets shown in the following table. Each virtual machine uses a static IP address. You need to create network security groups (NSGs) to meet following requirements: ✑ Allow web requests from the internet to VM3, VM4, VM5, and VM6. ✑ Allow all connections between VM1 and VM2. ✑ Allow Remote Desktop connections to VM1. Prevent all other network traffic to VNET1. What is the minimum number of NSGs you should create?
+
+![Question 301](images/question301.jpg)
+
+- [ ] 1
+- [ ] 3
+- [x] 4
+- [ ] 12
+
+### You have an Azure subscription named Subscription1 that contains the virtual networks in the following table. Subscription1 contains the virtual machines in the following table. In Subscription1, you create a load balancer that has the following configurations: ✑ Name: LB1 ✑ SKU: Basic ✑ Type: Internal ✑ Subnet: Subnet12 ✑ Virtual network: VNET1 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
+
+![Question 302_1](images/question302_1.jpg)
+![Question 302_2](images/question302_2.jpg)
+![Question 302_3](images/question302_3.jpg)
+
+- [x] LB1 can balance the traffic between VM1 and VM2. Yes
+- [ ] LB1 can balance the traffic between VM1 and VM2. No
+
+### You have an Azure subscription named Subscription1 that contains the virtual networks in the following table. Subscription1 contains the virtual machines in the following table. In Subscription1, you create a load balancer that has the following configurations: ✑ Name: LB1 ✑ SKU: Basic ✑ Type: Internal ✑ Subnet: Subnet12 ✑ Virtual network: VNET1 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
+
+![Question 302_1](images/question302_1.jpg)
+![Question 302_2](images/question302_2.jpg)
+![Question 302_3](images/question302_3.jpg)
+
+- [ ] LB1 can balance the traffic between VM3 and VM4. Yes
+- [x] LB1 can balance the traffic between VM3 and VM4. No
+
+### You have an Azure subscription named Subscription1 that contains the virtual networks in the following table. Subscription1 contains the virtual machines in the following table. In Subscription1, you create a load balancer that has the following configurations: ✑ Name: LB1 ✑ SKU: Basic ✑ Type: Internal ✑ Subnet: Subnet12 ✑ Virtual network: VNET1 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
+
+![Question 302_1](images/question302_1.jpg)
+![Question 302_2](images/question302_2.jpg)
+![Question 302_3](images/question302_3.jpg)
+
+- [ ] LB1 can balance the traffic between VM5 and VM6.Yes
+- [x] LB1 can balance the traffic between VM5 and VM6.No
+
+### You have an Azure subscription named Subscription1 that contains a virtual network named VNet1. You add the users in the following table. Which user can perform each configuration? Add a subnet to VNet1: To answer, select the appropriate options in the answer area.
+
+![Question 303_1](images/question303_1.jpg)
+![Question 303_2](images/question303_2.jpg)
+
+- [x] User1 only
+- [ ] User3 only
+- [ ] User1 and User3 only
+- [ ] User2 and User3 only
+- [ ] user1, User2, and User3
+
+### You have an Azure subscription named Subscription1 that contains a virtual network named VNet1. You add the users in the following table. Which user can perform each configuration? Add a subnet to VNet1: To answer, select the appropriate options in the answer area.
+
+![Question 303_1](images/question303_1.jpg)
+![Question 303_2](images/question303_2.jpg)
+
+- [ ] User1 only
+- [ ] User2 only
+- [ ] User3 only
+- [ ] User1 and User2 only
+- [ ] User2 and User3 only
+- [x] user1, User2, and User3
+
+### You need to identify the storage requirements for Contoso. For each of the following statements, select Yes if the statement is true. Otherwise, select No. NOTE: Each correct selection is worth one point.
+
+![Question 437](images/question437.jpg)
+
+- [x] Yes, No, No
+- [ ] No, Yes, No
+- [ ] No, No, Yes
+- [ ] Yes, Yes, No
+
+### You have an Azure subscription that contains an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shows in the following table. SecAdmin1 must answer the following question during the self-service password reset: In what city was your first job?
+
+[Question 499](images/question499.jpg)
+
+- [ ] Yes
+- [x] No
+
+### You have an Azure subscription that contains an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shows in the following table. BillAdmin1 must answer the following question during the self-service password reset What is your favorite food?
+
+[Question 499](images/question499.jpg)
+
+- [x] Yes
+- [ ] No
+
+### You have an Azure subscription that contains an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant is synced to the on-premises Active Directory domain. The domain contains the users shows in the following table. User1 must answer the following question during the self-service password reset What was the name of your first pet?
+
+[Question 499](images/question499.jpg)
+
+- [x] Yes
+- [ ] No
+
+### You have an Azure web app named App1. App1 has the deployment slots shown in the following table In webapp1-test, you test several changes to App1. You back up App1. You swap webapp1-test for webapp1-prod and discover that App1 is experiencing performance issues. You need to revert to the previous version of App1 as quickly as possible. What should you do?
+
+[Question 618](images/question618.jpg)
+
+cRedeploy App1
+- [x] Swap the slots
+- [ ] Clone App1
+- [ ] Restore the backup of App1
+
+### You have an Azure subscription that contains a virtual machine scale set. The scale set contains four instances that have the following configurations: – Operating system: Windows Server 2016 – Size: Standard_D1_v2 You run the get-azvmss cmdlet as shown in the following exhibit: When an administrator changes the virtual machine size, the size will be changed on up to [answer choice] virtual machines simultaneously.
+
+[Question 633_1](images/question633_1.jpg)
+[Question 633_2](images/question633_2.jpg)
+
+- [x] 0
+- [ ] 1
+- [ ] 2
+- [ ] 4
+
+### You have an Azure subscription that contains a virtual machine scale set. The scale set contains four instances that have the following configurations: – Operating system: Windows Server 2016 – Size: Standard_D1_v2 You run the get-azvmss cmdlet as shown in the following exhibit: When a new build of the Windows Server 2016 image is released, the new build will be deployed to up to [answer choice] virtual machines simultaneously.
+
+[Question 633_1](images/question633_1.jpg)
+[Question 633_2](images/question633_2.jpg)
+
+- [ ] 0
+- [ ] 1
+- [ ] 2
+- [x] 4
+
+### You have a sync group that has the endpoints shown in the following table. Cloud tiering is enabled for Endpoint3. You add a file named File1 to Endpoint1 and a file named File2 to Endpoint2. You need to identify on which endpoints File1 and File2 will be available within 24 hours of adding the files. What should you identify? To answer, select the appropriate options in the answer area. File1:
+
+[Question 644_1](images/question644_1.jpg)
+[Question 644_2](images/question644_2.jpg)
+
+- [ ] Endpoint1only
+- [x] Endpoint3 only
+- [ ] Endpoint2 and Endpoint3 only
+- [ ] Endpoint1, Endpoint2, and Endpoint3
+
+### You have a sync group that has the endpoints shown in the following table. Cloud tiering is enabled for Endpoint3. You add a file named File1 to Endpoint1 and a file named File2 to Endpoint2. You need to identify on which endpoints File1 and File2 will be available within 24 hours of adding the files. What should you identify? To answer, select the appropriate options in the answer area. File1:
+
+[Question 644_1](images/question644_1.jpg)
+[Question 644_2](images/question644_2.jpg)
+
+- [ ] Endpoint1only
+- [ ] Endpoint3 only
+- [ ] Endpoint2 and Endpoint3 only
+- [x] Endpoint1, Endpoint2, and Endpoint3
+
+### You have an Azure Storage account named storage1 that uses Azure Blob storage and Azure File storage. You need to use AzCopy to copy data to the blob storage and file storage in storage1. Which authentication method should you use for each type of storage? To answer, select the appropriate options in the answer area. Blob storage:
+
+[Question 647](images/question647.jpg)
+
+- [ ] Azure Active Directory (Azure AD) only
+- [ ] Shared access signatures (SAS) only
+- [ ] Access keys and shared access signatures (SAS) only
+- [x] Azure Active Directory (Azure AD) and shared access signatures (SAS) only
+- [ ] Azure Active Directory (Azure AD), access keys, and shared access signatures (SAS)
+
+### You have an Azure Storage account named storage1 that uses Azure Blob storage and Azure File storage. You need to use AzCopy to copy data to the blob storage and file storage in storage1. Which authentication method should you use for each type of storage? To answer, select the appropriate options in the answer area. File storage:
+
+[Question 647](images/question647.jpg)
+
+- [ ] Azure Active Directory (Azure AD) only
+- [x] Shared access signatures (SAS) only
+- [ ] Access keys and shared access signatures (SAS) only
+- [ ] Azure Active Directory (Azure AD) and shared access signatures (SAS) only
+- [ ] Azure Active Directory (Azure AD), access keys, and shared access signatures (SAS)
+
+### You have an Azure subscription named Subscription1 that contains the resources shown in the following table. You plan to use Vault1 for the backup of as many virtual machines as possible. Which virtual machines can be backed up to Vault1?
+
+[Question 648_1](images/question648_1.jpg)
+[Question 648_2](images/question648_2.jpg)
+
+- [ ] VM1, VM3, VMA, and VMC only
+- [ ] VM1 and VM3 only
+- [ ] VM1, VM2, VM3, VMA, VMB, and VMC
+- [ ] M1 only
+- [ ] VM3 and VMC only
+
+### You create a virtual machine scale set named Scale1. Scale1 is configured as shown in the following exhibit. If Scalel is utilized at 85 percent for six minutes, Scalel will be running [answer choice].
+
+[Question 652](images/question652.jpg)
+
+- [ ] 2 virtual machines
+- [x] 4 virtual machines
+- [ ] 6 virtual machines
+- [ ] 10 virtual machines
+- [ ] 20 virtual machines
+
+### You create a virtual machine scale set named Scale1. Scale1 is configured as shown in the following exhibit. If Scalel is first utilized at 25 percent for six minutes, and then utilized at 50 percent for six minutes, Scalel will be running [answer choice].
+
+[Question 652](images/question652.jpg)
+
+- [ ] 2 virtual machines
+- [x] 4 virtual machines
+- [ ] 6 virtual machines
+- [ ] 10 virtual machines
+- [ ] 20 virtual machines
+
+### You have a hybrid infrastructure that contains an Azure Active Directory (Azure AD) tenant named contoso.onmicrosoft.com. The tenant contains the users shown in the following table. You plan to share a cloud resource to the All Users group. You need to ensure that User1, User2, User3, and User4 can connect successfully to the cloud resource. What should you do first?
+
+[Question 664](images/question664.jpg)
+
+- [ ] Create a user account of the member type for User4.
+- [ ] Create a user account of the member type for User3.
+- [x] Modify the Directory-wide Groups settings.
+- [ ] Modify the External collaboration settings.
+
+### You have an Azure subscription that contains a virtual network named VNet1. VNet1 uses an IP address space of 10.0.0.0/16 and contains the VPN Gateway and subnets in the following table: Address prefix.
+
+[Question 671](images/question671.jpg)
+
+- [x] 10.0.0.0/16
+- [ ] 10.0.1.0/24
+- [ ] 10.0.254.0/24
+
+### You have an Azure subscription that contains a virtual network named VNet1. VNet1 uses an IP address space of 10.0.0.0/16 and contains the VPN Gateway and subnets in the following table: Next hop type.
+
+- [x] Virtual appliance
+- [ ] Virtual network
+- [ ] Virtual network gateway
+
+[Question 671](images/question671.jpg)
+### You have an Azure subscription that contains a virtual network named VNet1. VNet1 uses an IP address space of 10.0.0.0/16 and contains the VPN Gateway and subnets in the following table: Assigned to.
+
+[Question 671](images/question671.jpg)
+
+- [x] Gateway Subnet
+- [ ] Subnet0
+- [ ] Subnet1 and Subnet2
